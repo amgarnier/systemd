@@ -10,6 +10,8 @@ For the purpose of this document let's assume you have deployed your app under:
 
 The app name is `<myiotapp>` in this documentation you would replace the entire string including the carrots in your files.
 
+[Security Considerations](#security-considerations)
+
 Make sure to make your app ```<myiotapp>``` is executable by using the command:
 
 ```shell
